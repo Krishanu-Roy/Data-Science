@@ -1,3 +1,4 @@
+Module 1: 
 What is Data
 # Topic Objective: Identify applications of data in daily life.
 
@@ -13,3 +14,42 @@ The main factors to consider when choosing a visualization are: 
 > Whether the data illustrates changes over time.  
 
 > The need to make a comparison or correlation between different groups of data points.  
+
+Data is All Around Us !
+
+Topic objective: Compare and contrast the different types of data.
+
+Data analysis begins with understanding the types of data. Data is either defined as quantitative or qualitative. Quantitative data is divided into discrete and 
+continuous data. The data type tells a system how to interpret the data’s value, so the system can perform operations to transform and use the data in computations.  
+
+Data types include:  
+String , Integer , Floating point , Date and time , Boolean 
+
+The data should be categorized as structured or unstructured before it is processed, stored, and analyzed. After data is defined and selected, 
+it becomes relevant in determining the questions to be answered.  
+
+Business Understanding 
+
+Topic Objective: Evaluate the value gained through analytics.
+
+Data science enables businesses to better understand the impact of their products and services, adjust their methods and goals, and provide their customers with 
+better products faster. Trend analysis is one way to gain insights into key performance indicators (KPI) over time.  
+
+Humanitarian Organizations use data to serve their communities and the world. Predictive analytics can focus humanitarian efforts on preventive 
+rather than reactive actions. Environmental agencies track climate change data through observations which enable predictions of societal impact. 
+
+REFLECTION 
+
+The world population continues to climb. The need to feed that growing population makes the agricultural sector more dependent on data than ever before. 
+Agricultural farmers utilize data to determine the right weather, soil yield, supply and demand for the type of crops. These analytics impact what to plant, when to plant,
+when to harvest, and when to sell. For livestock farmers, data analytics drives breeding rates, land management, purchasing of hay and grain, and determining the sales
+market. 
+
+The farmer's role may have stayed relatively the same as the decades before us, but the approach has drastically changed due to data analytics. 
+The increased need for a sustainable and consistent food supply raises new questions. Questions for reflection include:  
+
+What percentage of land should be dedicated to farming versus communities?  
+
+What other data should be gathered to ensure a good food source for generations while not negatively impacting the environment?  
+
+Data analytics will continue to play a significant role in improving farming methods for future generations. 
