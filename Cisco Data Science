@@ -84,6 +84,7 @@ Note: You will also see the acronym ETL, which stands for Extract, Transform, an
 Ingestion
 Data engineers will want to ingest two primary sources of data: batches of data from servers or databases (batch ingestion) and real-time events happening in the world and streaming from the world of devices (streaming ingestion). An example of batch ingestion is a game company that wants to examine the relationship between subscription renewals and customer support tickets. It could ingest all the related data on a daily or weekly basis. It doesn’t need to access and analyze data immediately after a support ticket is closed or a subscription is renewed. An example of streaming ingestion is when you request a ride from a ride share service. The company combines streams of data (e.g. historical data, real-time traffic data, and location tracking) to make sure you get a ride from the driver who is closest to you at the time. 
 
+Module 3: 
 The Machine Learning Process
 Developing a machine learning solution is seldom a linear process. Several trial-and-error steps are necessary to fine-tune the solution. The details of each step performed by the Data Crunchers data scientists as they work on the new weed identification and eradication model are as follows:
 
@@ -100,3 +101,12 @@ Step 4. Learning Process Loop - Evaluation. This selected algorithm's performanc
 Step 5. Model evaluation - Test the solution on the test data. The performances on learning data are not necessarily transferrable to test data. The more complex and fine-tuned the model is, the higher the chances are that the model will become prone to overfitting, which means it cannot perform accurately against unseen data. Overfitting can result in going back to the model learning process.   
 
 Step 6. Model implementation - After the model achieves satisfactory performance on test data, implement the model. Implementing the model means performing the necessary tasks to scale the machine learning solution to big data.  
+
+Module 4:
+
+Data Analyst
+Data analysts query, process, provide reports, and summarize and visualize data. They leverage existing tools and methods to solve a problem. They help people, such as business analysts, to understand specific queries with ad-hoc reports and charts. Data analysts must understand basic statistical principles, cleaning different data types, visualization, and exploratory data analysis. In short, data analysts analyze data to help businesses and other organizations make informed decisions. 
+
+Data Engineer
+Data engineers are responsible for building and operationalizing data pipelines to collect and organize data. They ensure the accessibility and availability of quality data for data scientists and data analysts by integrating data from disparate sources and performing data cleaning and transformation. Skills needed for data engineering roles include understanding the architecture, tools, and methods of data ingestion, transformation and storage; and proficiency with multiple programming languages (including Python and Scala). In summary, data engineers build and operate the data infrastructure needed to prepare data for further analysis by data analysts and scientists.
+
